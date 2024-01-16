@@ -5,3 +5,5 @@ After carefull consideration and assessment of literature available at https://a
 Therefore, the application database will most likey to serve only content to complement the information about snake species.
 
 A Dataset is under development based on findings at https://reptile-database.reptarium.cz/advanced_search?taxon=snake&location=rio+grande+do+sul&submit=Search.
+
+It's worth clarifying that this app isn't designed to identify specific snake species. Its sole purpose is to quickly determine if a snake is dangerous. We envision a system with three distinct danger levels to clearly inform users of potential risk. Accuracy is critical, especially considering how some harmless snakes perfectly mimic their venomous counterparts. While the exact method for differentiating them is still being developed, highly precise identification will be essential for this app's reliability.
